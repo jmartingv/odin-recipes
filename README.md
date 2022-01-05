@@ -1,6 +1,9 @@
 # odin-recipes
 
-![Restaurant Icon](./img/restaurant-2-fill.png)
+<p align="center">
+  <img src="/img/restaurant-2-fill.png">
+</p>
+
 
 ## Overview
 
