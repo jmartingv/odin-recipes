@@ -1,0 +1,18 @@
+/* styles for index and recipes */
+* {
+    background-color: papayawhip;
+    font-family: Helvetica, sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+#recipes {
+    list-style-type: none;
+}
+
+#recipes li {
+    padding: 8px 10px;
+    border-bottom: 2px dashed black;
+}
