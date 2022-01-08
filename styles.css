@@ -4,15 +4,21 @@
     font-family: Helvetica, sans-serif;
 }
 
+img {
+    border: 2px solid black;
+}
+
 div {
     text-align: center;
 }
 
-#recipes {
+ul {
+    display: flex;
     list-style-type: none;
+    justify-content: center;
 }
 
-#recipes li {
-    padding: 8px 10px;
-    border-bottom: 2px dashed black;
+li {
+    padding: 8px 10px;  
+    border: 2px dashed gray;
 }
