@@ -1,0 +1,30 @@
+body {
+    background-color: papayawhip;
+    font-family: Helvetica, sans-serif;
+}
+
+.header{
+    text-align: center;
+}
+
+.content {
+    padding: 20px 80px;
+}
+
+img {
+    border: 2px solid black;
+}
+
+ul li {
+	margin: 0;
+	padding: 8px 24px;
+	list-style: none;
+	background-image: url("./img/fork.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 16px;
+}
+
+ol li {
+    margin: 20px 24px;
+}

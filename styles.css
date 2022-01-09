@@ -21,4 +21,5 @@ ul {
 li {
     padding: 8px 10px;  
     border: 2px dashed gray;
+    margin: 2px;
 }
